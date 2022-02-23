@@ -3,6 +3,7 @@ This project will help you use the face detection functionality of the Mediapipe
 
 The project is accompanied by a video:
 https://youtu.be/vXl1Ncsu6yE
+
 The project is also accompanied by a blog:
 https://www.blogger.com/blog/posts/3555781609312186955
 
